@@ -307,6 +307,7 @@ LivePrinter is completely open source (AGPL 3.0). To summarise, it is built on a
 * [Marlin Firmware](https://github.com/MarlinFirmware/Marlin)
 * [Ultimaker 2 Marlin variant](https://github.com/Ultimaker/Ultimaker2Marlin)
 * Bottleneck async limiter](https://github.com/SGrondin/bottleneck)
+* [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js with Redis-backed state, cross-process priority and crash recovery.
 * bits of [CNCjs](https://cnc.js.org/)
 
 ## Similar Projects
